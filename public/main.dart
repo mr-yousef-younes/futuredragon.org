@@ -1,5 +1,5 @@
 import 'package:flutter_web_plugins/flutter_web_plugins.dart';
-import 'package:futuredragon/main.dart' as app;
+import 'package:futuredragon_dot_org/main.dart' as app;
 
 void main() {
   usePathUrlStrategy();

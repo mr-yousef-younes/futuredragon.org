@@ -14,11 +14,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "613361007708-itgj9iejjucmjfk9lv61u0rm0b15d871.apps.googleusercontent.com",
+          "client_id": "613361007708-sv7kne99rujd0e82m75o055jvj67jfnu.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.futuredragon.app",
-            "certificate_hash": "4df35796444e8078e9f2018be06f8c098cfed755"
+            "certificate_hash": "be686eb399ff9beee04418030d560f852934380c"
           }
         },
         {

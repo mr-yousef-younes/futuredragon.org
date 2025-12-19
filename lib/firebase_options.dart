@@ -46,7 +46,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyCGevaPIy8zrd-LEvhUio03WHDB35WCINw',
-    appId: '1:613361007708:android:72a02fae4d07b48287ba99',
+    appId: '1:613361007708:android:c7ca619142da0c0087ba99',
     messagingSenderId: '613361007708',
     projectId: 'futuredragon-0',
     storageBucket: 'futuredragon-0.firebasestorage.app',
